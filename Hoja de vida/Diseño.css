@@ -1,0 +1,25 @@
+body {
+  background-color: #ffffff;
+}
+
+.perfil {
+  background-color: #00089b; 
+  color: #ffffff;
+  padding: 20px;
+} 
+
+.perfil2 {
+  background-color: #ffffff; 
+  color: #040000;
+  padding: 15px;
+} 
+
+img {
+    width: 200px;
+    height: 250px;
+    border-radius: 50%;
+    border: 4px solid #ffffff;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
